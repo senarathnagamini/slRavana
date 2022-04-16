@@ -1,7 +1,7 @@
    <div align="center">
    
    ### RAVANA BOT 🤴🪀 By SL_RAVANA_TEAME            
-   [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Profile%20Views&color=red)](https://github.com/RAVANA-SL/slRavana)
+   [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Profile%20Views&color=red)](https://github.com/senarathnagamini/slRavana)
    
  [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
   
@@ -45,7 +45,7 @@ By establishing the RAVANA, you are deemed to have accepted these responsibiliti
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/RAVANA)](https://replit.com/@RAVANASL/RAVANA-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/senarathnagamini/-sl/mrravana)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/senarathnagamini/-/mrravana)
      </div>
      
 ### ⚠️ Warning! 
